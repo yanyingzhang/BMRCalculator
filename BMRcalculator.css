@@ -1,0 +1,91 @@
+﻿body {
+    background-image: url('img/30.jpg');
+}
+h1{
+    width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	color: #E59F32;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+#container{
+	margin: 20px auto 20px auto;
+	width: 980px;
+	font-family: Arial, Helvetica, sans-serif;
+	opacity: 0.8;
+	background-color: #CCCCCC;
+	height: 500px;
+    border-radius: 5px;
+}
+#result {
+	padding: 20px;
+	font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+	margin-left: 50px;
+}
+footer {
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-size: x-small;
+	color: #CCCCCC;
+}
+#bmrIntro {
+	margin: 10px 30px 10px 30px;
+	padding-top: 20px;
+	color: #5791B3;
+	position: absolute;
+	width: 350px;
+	top: 100px;
+	right: 150px;
+	border-left-style: solid;
+	border-left-color: #999999;
+	padding-left: 20px;
+	height: 400px;
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#bmrCalculator{
+	border-style: none;
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	margin-left: 35px;
+	border-style: none;
+	padding-top: 20px;
+}
+fieldset {
+	width: 480px;
+}
+a {
+	text-decoration: none;
+	font-style: italic;
+	color: #FFFFFF;
+}
+table{
+	box-shadow: 3px 3px #5791B3;
+	border-radius: 5px;
+	padding: 20px;
+	width: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #E59F32;
+}
+.formfillLable{
+	text-align: right;
+	padding-right: 10px;
+}
+#bmr{
+	font-size: xx-large;
+    color: #DA8A00;
+}
+#calories{
+	font-size: xx-large;
+    color: #DA8A00;
+}
+#limAge {
+    color: red;
+}
+#limHei {
+    color: red;
+}
+#limWei {
+    color: red;
+}
